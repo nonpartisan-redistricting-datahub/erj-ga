@@ -3,7 +3,7 @@ Election results joined to precinct boundaries for Georgia beyond existing VEST 
 
 As of May 19, 2022, all 2020 general election results are available for statewide, state senate, state house, and U.S. Congress races.
 
-As of May 19, 2022, we are currently working on 2020 primary election results.
+As of May 31, 2022, all 2020 primary and primary runoff election results are available for statewide, state senate, state house, and U.S. Congress races.
 
 ## File Descriptions
 
